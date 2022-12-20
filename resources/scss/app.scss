@@ -1,1 +1,7 @@
-@import '~bootstrap/scss/bootstrap'
+@import '~bootstrap/scss/bootstrap';
+
+body{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/d/d5/Trenitalia_logo.svg');
+    background-size: cover;
+    height: 100vh;
+}
